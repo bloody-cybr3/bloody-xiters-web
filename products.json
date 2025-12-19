@@ -1,1 +1,41 @@
+{
+  "products": [
+    {
+      "product_name": "BX External Panel",
+      "application_version": "v1.8.6",
+      "download_link": "https://tinyurl.com/BloodyXiters-v1-8-5",
+      "tutorial_link": "https://youtu.be/HgLvvKgD68k",
+      "subscription_keys": [
+        "external",
+        "external+internal",
+        "external+mousebot",
+        "externalmousebot",
+        "externalinternal"
+      ]
+    },
+    {
+      "product_name": "BX MouseBot AI",
+      "application_version": "v2.1.0",
+      "download_link": "https://tinyurl.com/BloodyXiters-v1-8-5",
+      "tutorial_link": "https://youtu.be/HgLvvKgD68k",
+      "subscription_keys": [
+        "mousebot",
+        "external+mousebot",
+        "externalmousebot"
+      ]
+    },
+    {
+      "product_name": "BX Internal Panel",
+      "application_version": "v1.2.0",
+      "download_link": "https://tinyurl.com/BloodyXiters-v1-8-5",
+      "tutorial_link": "https://youtu.be/HgLvvKgD68k",
+      "subscription_keys": [
+        "internal",
+        "external+internal",
+        "externalinternal"
+      ]
+    }
+  ]
+}
+
 
